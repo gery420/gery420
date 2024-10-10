@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [ashish.college](ashish.college)
+- 👨‍💻 All of my projects are available at [ashish.college](www.ashish.college)
 
 - 📫 How to reach me **mashishkr025@gmail.com**
 
