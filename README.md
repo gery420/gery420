@@ -4,6 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/gery420?logo=github)
 ![Visitors](https://komarev.com/ghpvc/?username=gery420)
 
+![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
