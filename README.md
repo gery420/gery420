@@ -29,14 +29,11 @@
 <br>
 <a href="#"><img alt="Visual Studio Code" src="http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff"></a>
 <br>
-<a href="https://github.com/gery420/github-readme-stats"><img alt="Ashish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gery420&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="#"><img alt="Ashish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gery420&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   
-<a href="https://github.com/gery420/github-readme-stats"><img alt="Ashish's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gery420&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="#"><img alt="Ashish's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gery420&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gery420&theme=dark&show_icons=true&locale=en&layout=compact" alt="gery420" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gery420&theme=dark&show_icons=true&locale=en" alt="gery420" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gery420&theme=dark" alt="gery420" /></p>
 
