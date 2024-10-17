@@ -9,8 +9,6 @@
 
 - 👨‍💻 Here's the link to my portfolio [website](https://ashish.college)
 
-- 📫 How to reach me **mashishkr025@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ash_3233" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ash_3233" height="30" width="40" /></a>
