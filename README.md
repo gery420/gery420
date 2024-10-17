@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-<a href="#"><img alt="Ashish's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gery420&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="#"><img alt="Ashish's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConnectBhawna&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
 <br>
