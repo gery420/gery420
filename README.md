@@ -4,7 +4,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/gery420?logo=github)
 ![Visitors](https://komarev.com/ghpvc/?username=gery420)
 
-![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
@@ -29,7 +28,11 @@
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff">
 <br>
 <a href="#"><img alt="Visual Studio Code" src="http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff"></a>
-
+<br>
+<a href="https://github.com/gery420/github-readme-stats"><img alt="Ashish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gery420&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  
+<a href="https://github.com/gery420/github-readme-stats"><img alt="Ashish's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gery420&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gery420&theme=dark&show_icons=true&locale=en&layout=compact" alt="gery420" /></p>
 
