@@ -20,17 +20,15 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="#"><img alt="Python" src="http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff"></a>
-<a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+<a href="#"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 <br>
 <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3">
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff">
-<a href="#"><img at="React Js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/240px-React-icon.svg.png" width="30" height="30"></a>
+<a href="#"><img alt="React Js" src="https://img.shields.io/badge/-React-#80bcd0?style=for-the-badge&logo=react"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff">
 <br>
 <a href="#"><img alt="Visual Studio Code" src="http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff"></a>
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" width="55"></a>
-<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" width="140"></a>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gery420&theme=dark&show_icons=true&locale=en&layout=compact" alt="gery420" /></p>
