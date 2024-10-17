@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
-- 👨‍💻 Here's the link to my portfolio [website](https://ashish.college)
+- 👨‍💻 Here's the link to my portfolio <a href="https://ashish.college" target=_blank>website</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
