@@ -9,14 +9,6 @@
 
 - 👨‍💻 Here's the link to my portfolio <a href="https://ashish.college" target=_blank>website</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ash_3233" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ash_3233" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashish-mishra-768bb128b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-mishra-768bb128b" height="30" width="40" /></a>
-<a href="https://instagram.com/ig.ashish.__" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig.ashish.__" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gery420" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gery420" height="30" width="40" /></a>
-</p>
-
 ## Languages and Tools:
 <a href="#"><img alt="Python" src="http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff"></a>
 <a href="#"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
@@ -39,7 +31,11 @@
   
 <a href="#"><img alt="Ashish's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gery420&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gery420&theme=dark" alt="gery420" /></p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ash_3233" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ash_3233" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashish-mishra-768bb128b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-mishra-768bb128b" height="30" width="40" /></a>
+<a href="https://instagram.com/ig.ashish.__" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig.ashish.__" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/gery420" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gery420" height="30" width="40" /></a>
+</p>
 
