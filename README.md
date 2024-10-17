@@ -2,6 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gery420&label=Profile%20views&color=0e75b6&style=flat" alt="gery420" /> </p>
+![GitHub followers](https://img.shields.io/github/followers/gery420?logo=github)
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
