@@ -35,19 +35,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%23f69355.svg?style=for-the-badge&logo=blender&logoColor=white)
 <br>
-<p align="center">
-    <a href="#">
-        <img alt="Ashish's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gery420&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-<br>
-<p align="center">
-    <a href="#"><img alt="Ashish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gery420&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
-</p>
-
-<p align="center">
-<a href="#"><img alt="Ashish's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gery420&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
