@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
-- 👨‍💻 Here's the link to my portfolio <a href="https://ashish.college" target=_blank>website</a>
+- 👨‍💻 Here's the link to my portfolio <a href="https://theashish.tech" target=_blank>website</a>
 
 ## Languages and Tools:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
